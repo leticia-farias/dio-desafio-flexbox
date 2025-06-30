@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do Desafio de Flexbox, com o objetivo d
 
 O design para o projeto foi disponibilizado no Figma, acesse pelo link abaixo:
 
-[Link do Figma - Desafio de Flexbox]([https://www.figma.com/file/seu-link-aqui](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1))  
+[Figma - Desafio de Flexbox](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1)  
 
 ## Tecnologias Utilizadas
 
