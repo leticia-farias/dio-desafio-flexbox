@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 2.8rem;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    padding: 1.1rem 2.4rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-div {
+    display: flex;
+    align-items: center;
+}
+
+#header-left {
+    gap: 3.2rem;
+}
+
+#header-right {
+    gap: 2.4rem;
+}
+
+.icon {
+    display: inline-block;
+}
+
+main {
+    display: flex;
+    padding: 0 1.5rem 1.1rem 7rem;
+    gap: 2.3rem;
+}
+
+#watching-video {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+#video-player img {
+    width: 88.7rem;
+}
+
+#canal-actions {
+    display: flex;
+    gap: 3.9rem;
+}
+
+#info-canal {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+}
+
+#btn-inscrever {
+    padding: 1.1rem 2.3rem;
+    background-color: #CC0000;
+    color: white;
+    border-radius: 0.18rem;
+    text-transform: uppercase;
+}
+
+.video-action {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+#info-video {
+    display: flex;
+    gap: 0.8rem;
+}
+
+#descricao {
+    width: 51rem;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+.video-recomendacao {
+    height: 8.4rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.video-recomendacao img {
+    width: 14.9rem;
+}
+
+.info-recomendacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
